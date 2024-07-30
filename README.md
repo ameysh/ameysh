@@ -10,7 +10,7 @@ I am currently a part of the Cyber-Physical Systems team at **TU Chemnitz**, whe
 - **Harpa Technologies**
 
 ## 🎯 Development Philosophy
-I understand the importance of effective development and adapting to changing requirements. Based on my years of experience, I develop software grounded in a deep understanding of user needs and focused on delivering a top-quality user experience. I prioritize solutions that are both practical and innovative. My approach involves thorough research and user feedback to ensure that each project not only meets but exceeds expectations.
+I understand the importance of effective development and adapting to changing requirements. Based on my experience, I develop software grounded in a deep understanding of user needs and focused on delivering a top-quality user experience. I prioritize solutions that are both practical and innovative. My approach involves thorough research and user feedback to ensure that each project not only meets but exceeds expectations.
 
 ## 💻 Technologies & Skills
 
