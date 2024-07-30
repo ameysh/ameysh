@@ -14,7 +14,7 @@ I understand the importance of effective development and the ability to adapt to
 
 ## 💻 Technologies & Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,bootstrap,react,electron,nodejs,express,php,c,cpp,java,spring,py,django,discord,discordjs,unreal,mongodb,postgres,docker,selenium,aws,postman,git,vim,windows,linux,kali,debian,androidstudio,raspberrypi)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,bootstrap,react,electron,nodejs,express,discordjs,php,c,cpp,java,spring,py,django,unreal,mongodb,postgres,docker,selenium,aws,postman,git,vim,windows,linux,androidstudio,raspberrypi)](https://skillicons.dev)
 
 ## 🌐 Let's Connect
 I’m always eager to expand my professional network. I invite you to connect with me and reach out!
