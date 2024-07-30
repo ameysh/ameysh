@@ -17,7 +17,7 @@ I understand the importance of effective development and adapting to changing re
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,bootstrap,react,electron,nodejs,express,discordjs,php,c,cpp,java,spring,py,django,unreal,mongodb,postgres,docker,selenium,aws,postman,git,vim,windows,linux,androidstudio,raspberrypi)](https://skillicons.dev)
 
 ## 🌐 Let's Connect
-I’m always eager to expand my professional network, or have a productive discussion about the vast field of computer science. I invite you to connect with me and reach out!
+I’m always eager to expand my professional network, or just have a discussion about the vast field of computer science. I invite you to connect with me and reach out!
 
 ---
 
