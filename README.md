@@ -1,4 +1,4 @@
-# Hi, I'm Amey👋
+# Hi, I'm Amey
 
 I’m a Web & Software Engineer with extensive professional experience in handling both large-scale and small-scale projects. My knowledge stems from two Master's degrees: MSc Web Engineering (in progress) from TU Chemnitz, Germany, and MSc Computer Science from MIT-WPU, Pune, India.
 
