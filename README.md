@@ -23,4 +23,5 @@ I’m always eager to expand my professional network, or have a discussion about
 ---
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/amey-r-shaligram/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/ameysh)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-808080)](https://github.com/ameysh)
+[![X (Formerly Twitter)](https://img.shields.io/badge/Twitter-Follow-1DA1F2)](https://x.com/Radlrq)
