@@ -6,9 +6,11 @@ I’m a Web & Software Engineer with extensive professional experience in handli
 I am currently a part of the Cyber-Physical Systems team at TU Chemnitz, where I contribute to research and development using JavaScript with Python and Django for building backend systems and interactive web applications.
 
 Previously, I have worked at:
-- **Deloitte US-India**
-- **Ethosh Digital**
 - **Harpa Technologies**
+- **Ethosh Digital**
+- **Deloitte US-India**
+
+
 
 ## 🎯 Development Philosophy
 I understand the importance of effective development and adapting to changing requirements. Using my experience, I develop software grounded in a deep understanding of user needs and focused on delivering a top-quality user experience. I prioritize solutions that are both practical and innovative. My approach involves thorough research and user feedback to ensure that each project exceeds expectations.
