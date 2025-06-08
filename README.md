@@ -3,7 +3,7 @@
 I’m a Web & Software Engineer with extensive professional experience in handling both large-scale and small-scale projects. My knowledge stems from two Master's degrees: MSc Web Engineering (in progress) from TU Chemnitz, Germany, and MSc Computer Science from MIT-WPU, Pune, India.
 
 ## 🏢 Current Role and Previous Experiences
-I am currently a part of the Cyber-Physical Systems team at TU Chemnitz, where I contribute to research and development using JavaScript with Python and Django for building backend systems and interactive web applications.
+I am currently a part of the Cyber-Physical Systems team at **Technische Universität Chemnitz**, where I contribute to research and development using JavaScript with Python and Django for building backend systems and interactive web applications.
 
 Previously, I have worked at:
 - **Harpa Technologies**
