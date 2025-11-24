@@ -10,7 +10,7 @@ Previously, I have worked at:
 - **Ethosh Digital**
 - **Deloitte US-India**
 
-## 💻 Technologies & Skills
+## 💻 Technologies I have worked with
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,tailwind,react,electron,vite,nodejs,express,discordjs,php,c,cpp,java,py,django,unreal,mongodb,postgres,docker,selenium,aws,postman,git,vim,windows,linux,androidstudio,raspberrypi)](https://skillicons.dev)
 
