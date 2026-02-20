@@ -1,14 +1,11 @@
 # Hi, I'm Amey
 
-I’m a Web & Software Engineer with extensive professional experience in handling both large-scale and small-scale projects. My knowledge stems from two Master's degrees: MSc Web Engineering (in progress) from TU Chemnitz, Germany, and MSc Computer Science from MIT-WPU, Pune, India.
+I’m a Web & Software Engineer with extensive professional experience in handling both large-scale and small-scale projects. My academic background includes two Master's degrees: MSc Web Engineering and MSc Computer Science.
 
 ## 🏢 Work Experience
-I am currently a part of the Cyber-Physical Systems team at **Technische Universität Chemnitz**, where I contribute to research and development using JavaScript with Python and Django for building backend systems and interactive web applications.
+I am currently a full-time MSc Web Engineering student, focusing on modern web architectures, scalable systems, and research-driven development.
 
-Previously, I have worked at:
-- **Harpa Technologies**
-- **Ethosh Digital**
-- **Deloitte US-India**
+Previously, I worked as part of a Cyber-Physical Systems research team, contributing to research and development, building backend systems and interactive web applications. I have also gained professional experience across enterprise-level software projects, technology consulting, digital product development, virtual reality development, and startup-level engineering management.
 
 ## 💻 Technologies I have worked with
 
